@@ -1,4 +1,4 @@
-/*! HTML5 Enabling Script v1.0.0 - https://github.com/niclasgelin/html5-js */
+/*! HTML5 Enabling Script v1.0.1 - https://github.com/niclasgelin/html5-js */
 /*
  * A minimal HTML5 elements shim.
  *
