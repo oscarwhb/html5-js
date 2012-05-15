@@ -7,8 +7,9 @@
  * For more information, please refer to: http://unlicense.org
  */
 var html5 = (function() {
-  var e = ["header","hgroup","footer","article","section","aside","nav","figure","figcaption","embed","audio","video","canvas","details","summary","time","mark"];
+  var e = ["header","hgroup","footer","article","section","aside","nav","figure","figcaption","embed","audio","video","canvas","details","summary","time","mark"],
+      f = document.createDocumentFragment();
   for (var i = 0; i < e.length; i++) {
-    document.createElement(e[i]);
+    f.appendChild(document.createElement(e[i]));
   }
 }());
