@@ -8,8 +8,9 @@
  */
 var html5 = (function() {
   var elements = ["header","hgroup","footer","article","section","aside","nav","figure","figcaption","embed","audio","video","canvas","details","summary","time","mark"],
-      fragment = document.createDocumentFragment();
-  for (var i = 0; i < elements.length; i++) {
+      fragment = document.createDocumentFragment(),
+      length = elements.length;
+  for (var i = 0; i < length; i++) {
     fragment.appendChild(document.createElement(elements[i]));
   }
 }());
