@@ -30,9 +30,7 @@ audio, canvas, video {
 [Online YUI Compressor](http://www.refresh-sf.com/yui/)<br>
 [normalize.css](https://github.com/necolas/normalize.css)
 
-## Unlicense
-
-2012 Niclas Gelin
+## License
 
 This is free and unencumbered software released into the public domain.<br>
 For more information, please refer to: http://unlicense.org
