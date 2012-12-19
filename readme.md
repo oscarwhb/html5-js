@@ -23,7 +23,7 @@ figure, embed, audio, video, canvas {
 
 ## Resources
 
-[Online YUI Compressor](http://www.refresh-sf.com/yui/)<br>
+[Google Closure Compiler](http://closure-compiler.appspot.com/home)<br>
 [initial-css](https://github.com/niclasgelin/initial-css)
 
 ## License
