@@ -1,4 +1,4 @@
-/*! HTML5 Enabling Script v1.0.7 - https://github.com/niclasgelin/html5-js */
+/*! HTML5 Enabling Script v1.0.8 - https://github.com/niclasgelin/html5-js */
 /*
  * A minimal HTML5 elements shim.
  *
@@ -11,4 +11,4 @@
   while (i--) {
     document.createElement(elements[i]);
   }
-})();
+}());
