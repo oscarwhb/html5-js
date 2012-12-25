@@ -23,7 +23,7 @@ figure, embed, audio, video, canvas {
 
 ## Resources
 
-[Google Closure Compiler](http://closure-compiler.appspot.com/home)<br>
+[UglifyJS](https://github.com/mishoo/UglifyJS)<br>
 [initial-css](https://github.com/niclasgelin/initial-css)
 
 ## License
